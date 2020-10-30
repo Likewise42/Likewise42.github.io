@@ -19,9 +19,9 @@ const init = () =>{
 	gameDevDiv = document.querySelector("#gameDevDiv");
 	gameDesignDiv = document.querySelector("#gameDesignDiv");
 	
-	webDevButton.onclick = webDevPress;
+	/*webDevButton.onclick = webDevPress;
 	gameDevButton.onclick = gameDevPress;
-	gameDesignButton.onclick = gameDesignPress;
+	gameDesignButton.onclick = gameDesignPress;*/
 	
 }
 
